@@ -82,7 +82,7 @@ require_once("views/cars_view.phtml");
 ```
 The controller must always have this structure called the model and underneath it in view, if there are more models and views, it continues to do so with all of them.
 
-:file_folder:view/:page_facing_up:personas_view.phtml
+:file_folder:view/:page_facing_up:cars_view.phtml
 ```
 <!DOCTYPE html>
 <html lang="en">
